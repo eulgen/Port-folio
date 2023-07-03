@@ -1,0 +1,32 @@
+Differentes tache à réaliser dans le projet
+
+Tache 1:
+    creer 02 blocs l'un pour les expériences pro et l'autre sur les compétences et la localisation
+
+Tache 2:
+    M'occuper de la partie compétences et localisation
+
+    Sous-tache 1:
+        Subdiviser la partie compétences et localisation en deux blocs successifs (un bloc compétences et l'autre localisation)
+    
+    Sous-tache 2:
+        M'occuper de remplir ce bloc là
+    
+    Sous-tache 3:
+        M'occuper de la jauge qui s'augmente avec le curseur
+
+Tache 3:
+    M'occuper de la partie sur les expériences professionnelles
+
+    Sous-tache 1:
+        Subdiviser la partie expériences professionnelles en 03 blocs (Un bloc pour l'analyse developpeur, un autre pour les diplomes et 
+        l'exp pro et enfin un autre bloc pour Les Atouts et Informatique)
+
+    Sous-tache 2:
+        M'occuper de remplir en ecriture chaque bloc
+    
+    Sous-tache 3:
+        En finir avec les déssins et autre sur ce bloc
+
+Tache 4:
+    Terminer avec les triangles rectangles et autre

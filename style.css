@@ -1,0 +1,19 @@
+.cmp_loc{
+    background-color: rgb(173, 234, 243);
+    width: 25%;
+    height: 100%;
+    /*float: left;*/
+    object-position: right;
+    margin-right: 100%;
+}
+
+.exp_pro{
+    background-color: rgb(246, 8, 8);
+    width: 75%;
+    height: 100%;
+    /*float: right;*/
+}
+
+.all_cv{
+    background-color: green;
+}
