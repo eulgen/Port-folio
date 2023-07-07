@@ -30,3 +30,5 @@ Tache 3:
 
 Tache 4:
     Terminer avec les triangles rectangles et autre
+
+insérer un triangle avec clip-path:polygon()
